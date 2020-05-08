@@ -1,3 +1,3 @@
 function validaCarrinho () {
-  console.log("iniciando validação carrinho")
+  console.log("iniciando validação carrinho!")
 }
